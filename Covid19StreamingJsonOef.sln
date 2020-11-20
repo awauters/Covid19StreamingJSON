@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19StreamingJsonOef", "Covid19StreamingJsonOef\Covid19StreamingJsonOef.csproj", "{AB34E4D5-0478-40C3-840C-B8C688D03531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Covid19StreamingJsonOefTests", "Covid19StreamingJsonOefTests\Covid19StreamingJsonOefTests.csproj", "{3B33788F-ED0D-43A2-89F8-20A635743C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB34E4D5-0478-40C3-840C-B8C688D03531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB34E4D5-0478-40C3-840C-B8C688D03531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB34E4D5-0478-40C3-840C-B8C688D03531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB34E4D5-0478-40C3-840C-B8C688D03531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B33788F-ED0D-43A2-89F8-20A635743C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B33788F-ED0D-43A2-89F8-20A635743C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B33788F-ED0D-43A2-89F8-20A635743C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B33788F-ED0D-43A2-89F8-20A635743C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610249AE-687D-4A4D-8688-8BE6F2911CD9}
+	EndGlobalSection
+EndGlobal

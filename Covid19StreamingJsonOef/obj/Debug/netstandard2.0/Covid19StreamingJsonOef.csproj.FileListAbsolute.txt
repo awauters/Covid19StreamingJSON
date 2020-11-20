@@ -1,0 +1,9 @@
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\bin\Debug\netstandard2.0\Covid19StreamingJsonOef.deps.json
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\bin\Debug\netstandard2.0\Covid19StreamingJsonOef.dll
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\obj\Debug\netstandard2.0\Covid19StreamingJsonOef.csprojAssemblyReference.cache
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\obj\Debug\netstandard2.0\Covid19StreamingJsonOef.AssemblyInfoInputs.cache
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\obj\Debug\netstandard2.0\Covid19StreamingJsonOef.AssemblyInfo.cs
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\bin\Debug\netstandard2.0\Covid19StreamingJsonOef.pdb
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\obj\Debug\netstandard2.0\Covid19StreamingJsonOef.csproj.CoreCompileInputs.cache
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\obj\Debug\netstandard2.0\Covid19StreamingJsonOef.dll
+C:\Users\isabe\source\repos\Covid19StreamingJsonOef\Covid19StreamingJsonOef\obj\Debug\netstandard2.0\Covid19StreamingJsonOef.pdb

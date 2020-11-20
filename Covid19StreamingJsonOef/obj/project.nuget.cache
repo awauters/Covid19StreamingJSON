@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fTCOCpE5tfXKIjZyV4XUnrHTIz7h+/lQXe84VepJFsWG4EfPcsqGzBIDG8wmWhIeYezs6MEnR+VrGAYHnK3jdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\isabe\\source\\repos\\Covid19StreamingJsonOef\\Covid19StreamingJsonOef\\Covid19StreamingJsonOef.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
